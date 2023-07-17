@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(17, 6, 14);
+    padding-left: 40px;
+
+}
+h1{
+    color: azure;
+    font-weight: lighter;
+}
+.my-image{
+    margin-left:47%;
+}
+.subs{
+    margin-left: 47%;
+    color: cornsilk;
+}
+
+p{
+    color: blueviolet;
+}
+
+.works{
+    color: brown;
+    background-color: darkkhaki;
+}
+.thistable{
+    color: rgb(137, 172, 202);
+    font-weight: bolder;
+    font-style: italic;
+}
+
